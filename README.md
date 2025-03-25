@@ -1,13 +1,10 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/77924dd6-b94e-413b-8f34-dec3323aff56a" alt="Orbit Logo" width="400"/>
+  <img src="https://github.com/user-attachments/assets/c41d8bc0-07c0-4503-9901-5589781a1e16" alt="Orbit Logo" width="400"/>
 </p>
 
 <p align="center">
   Your centered text here
 </p>
-
-
-
 
 
 Clicking a date in Calendar should display a recyclerView of tasks for that day at the bottom of the screen or in a new screen
