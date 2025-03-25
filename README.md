@@ -32,7 +32,7 @@
 - **Completely free!** - Enjoy the full range of features without any hidden costs, subscriptions, or ads.
 
 <h1>Get the app</h1>
-The app can be installed from the GitHub releases page or by cloning the repository yourself and lauching it in Android studio to install it on your mobile device.
+The app can be installed from the GitHub releases page or by cloning the repository yourself and lauching it in Android Studio to install it on your mobile device.
 
 <h1>How does the app work?</h1>
 There are plenty of notes to explain each file and chunk of code to make it extremely easy to navigate and understand. There is more comprehensive documentation in the docs folder. Feel free to take any code you find helpful!
