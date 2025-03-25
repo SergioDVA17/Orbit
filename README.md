@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2d209734-48f0-48e7-ab66-7ba9a97a8cfa" alt="Orbit Logo"/>
+  <img src="https://github.com/user-attachments/assets/77924dd6-b94e-413b-8f34-dec3323aff56a" alt="Orbit Logo" width="400"/>
 </p>
-
-
 
 <p align="center">
   Your centered text here
