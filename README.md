@@ -2,6 +2,7 @@
   <img src="https://github.com/user-attachments/assets/c41d8bc0-07c0-4503-9901-5589781a1e16" alt="Orbit Logo" width="400"/>
 </p>
 
+<img src="https://github.com/user-attachments/assets/b697f09f-ac04-486e-8cf5-6a746aec438b" height="470">
 
 <p align="center">
   <h1>
