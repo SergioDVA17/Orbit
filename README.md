@@ -39,6 +39,18 @@ The app can be installed from the GitHub releases page or by cloning the reposit
 <h1>How does the app work?</h1>
 There notes and comments to explain each file and chunk of code to make it extremely easy to navigate and understand. There is more comprehensive documentation in the docs folder. Feel free to take any code you find helpful!
 
+<h1>Tech Stack</h1>
+<p>The app is designed using the latest Android version and technologies and follows best design practices.</p>
+<br>
+
+- User interface built using **Jetpack Compose** with a **FragmentContainerView** to host the same user interface at the top of the screen to navigate around the main functions of the application. Other activities are used to open alternate screens such as when adding new tasks to the calendar.
+- **Official Compose** navigation library.
+- **SharedPreferences**, JSON, and **Room Database** to store data.
+- **JUnit 5** for unit testing.
+- **Java Time API** for date and time formatting
+- **Java Util Package** to handle different locales, languages, and cultural settings.
+- **MVVM** architectural pattern to keep the logic organized and maintainable.
+- Clean modular code with comments to explain more complicated chunks.
 
 # Libraries Used
 Credit to [Kizito Nwose](https://github.com/kizitonwose/) for his [Calendar library](https://github.com/kizitonwose/Calendar). It is very well documented and thus quite easy to implement.
