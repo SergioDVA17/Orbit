@@ -43,4 +43,4 @@ There notes and comments to explain each file and chunk of code to make it extre
 # Libraries Used
 Credit to [Kizito Nwose](https://github.com/kizitonwose/) for his [Calendar library](https://github.com/kizitonwose/Calendar). It is very well documented and thus quite easy to implement.
 
-Credit to [PhilJay](https://github.com/PhilJay) for his [MPAndroidChat library](https://github.com/PhilJay/MPAndroidChart). The graphics and chart would have taken much longer without it!
+Credit to [PhilJay](https://github.com/PhilJay) for his [MPAndroidChat library](https://github.com/PhilJay/MPAndroidChart). The graphics and charts would have taken much longer without it!
