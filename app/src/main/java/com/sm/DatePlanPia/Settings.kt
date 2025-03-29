@@ -1,4 +1,4 @@
-package com.cs407.groupproject407
+package com.sm.DatePlanPia
 
 import android.content.Context
 import android.os.Bundle
@@ -6,7 +6,6 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.ArrayAdapter
-import android.widget.CheckBox
 import android.widget.RadioButton
 import android.widget.Spinner
 import androidx.appcompat.app.AppCompatDelegate

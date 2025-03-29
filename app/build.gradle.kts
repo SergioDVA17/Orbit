@@ -18,11 +18,11 @@ android {
     }
 
 
-    namespace = "com.cs407.groupproject407"
+    namespace = "com.sm.DatePlanPia"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.cs407.groupproject407"
+        applicationId = "com.sm.DatePlanPia"
         minSdk = 33
         targetSdk = 34
         versionCode = 1

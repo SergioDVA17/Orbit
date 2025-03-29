@@ -1,12 +1,9 @@
-package com.cs407.groupproject407
+package com.sm.DatePlanPia
 
 import android.content.Context
 import android.os.Bundle
-import android.util.Log
-import android.widget.ArrayAdapter
 import android.widget.Button
 import android.widget.ImageView
-import android.widget.Spinner
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.app.AppCompatDelegate

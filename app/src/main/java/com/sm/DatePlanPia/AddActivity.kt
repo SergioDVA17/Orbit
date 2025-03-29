@@ -1,14 +1,12 @@
-package com.cs407.groupproject407
+package com.sm.DatePlanPia
 
 import android.content.Context
 import android.content.Intent
 import android.os.Bundle
-import android.util.Log
 import android.widget.*
 import androidx.appcompat.app.AppCompatActivity
 import org.json.JSONArray
 import org.json.JSONObject
-import java.time.LocalTime
 import android.annotation.SuppressLint
 import android.app.AlarmManager
 import android.app.AlertDialog
@@ -22,11 +20,10 @@ import android.widget.Toast
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.annotation.RequiresApi
 import androidx.annotation.VisibleForTesting
-import androidx.core.app.ActivityCompat
 import androidx.core.app.NotificationCompat
 import androidx.core.app.NotificationManagerCompat
 import androidx.core.content.ContextCompat
-import com.cs407.groupproject407.databinding.ActivityMainBinding
+import com.sm.DatePlanPia.databinding.ActivityMainBinding
 import java.util.Calendar
 import java.util.Date
 

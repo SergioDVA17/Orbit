@@ -1,4 +1,4 @@
-package com.cs407.groupproject407
+package com.sm.DatePlanPia
 
 class TaskSummary (
     var taskID: Int = 0,

@@ -1,4 +1,4 @@
-package com.cs407.groupproject407
+package com.sm.DatePlanPia
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

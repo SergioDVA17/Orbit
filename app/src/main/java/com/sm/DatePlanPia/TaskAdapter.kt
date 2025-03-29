@@ -1,4 +1,4 @@
-package com.cs407.groupproject407
+package com.sm.DatePlanPia
 
 import android.content.Context
 import android.view.LayoutInflater
@@ -9,7 +9,6 @@ import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.RecyclerView
 import java.util.Calendar
 import java.util.GregorianCalendar
-import android.content.SharedPreferences
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
